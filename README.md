@@ -1,6 +1,7 @@
 # P03_openClassrooms
 
-##P3_iOS
+## P3_iOS
+
 As part of the OpenClassrooms training, it was necessary to carry out an initiation project to the SWIFT language. So I had to design a prototype fighting game (RPG) in an object oriented language (OOP)
 
 ***
